@@ -1,0 +1,24 @@
+.session-plan, .session-bank {
+	flex: 1;
+	padding: 5px;
+}
+.wrapper {
+	border: 1px solid black;
+	height: 100%;
+}
+.wrapper ul {
+	height: 100%;
+}
+.b-icon.bi {
+	margin: 10px 5px;
+	cursor: pointer;
+}
+.controls .b-icon.bi {
+    background: #c5acac;
+    padding: 6px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+.cursor-pointer {
+	cursor: pointer;
+}
